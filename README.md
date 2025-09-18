@@ -26,23 +26,56 @@
 
 # 🌟 Featured Projects  
 
-<p align="center">
-  <a href="https://github.com/craftwithneha/brainwave">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=craftwithneha&repo=brainwave&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/craftwithneha/apple-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=craftwithneha&repo=apple-website&theme=tokyonight&hide_border=true" />
-  </a>
+<table>
+<tr>
+<td width="50%">
+  
+### [Brainwave](https://github.com/craftwithneha/brainwave)  
+AI-powered modern landing page.  
+<p>
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-teal?style=flat&logo=tailwind-css&logoColor=white"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/craftwithneha/pure-brush">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=craftwithneha&repo=pure-brush&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/craftwithneha/nexacode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=craftwithneha&repo=nexacode&theme=tokyonight&hide_border=true" />
-  </a>
+</td>
+<td width="50%">
+  
+### [Apple Website](https://github.com/craftwithneha/apple-website)  
+Apple-inspired 3D website clone with GSAP & Three.js.  
+<p>
+  <img src="https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSAP-green?style=flat&logo=greensock&logoColor=white"/>
 </p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+  
+### [Pure Brush](https://github.com/craftwithneha/pure-brush)  
+Creative art & painting portfolio site.  
+<p>
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-teal?style=flat&logo=tailwind-css&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%">
+  
+### [Nexacode](https://github.com/craftwithneha/nexacode)  
+Full-stack code collaboration platform.  
+<p>
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
