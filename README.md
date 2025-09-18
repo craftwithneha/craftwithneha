@@ -36,7 +36,8 @@ I focus on **Next.js, ShadCN UI, React, and TypeScript**, turning ideas into imp
 # 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=craftwithnehas&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=craftwithnehas&show_icons=true&theme=tokyonight&hide_border=true" height="160" /> -->
+  <img src="https://github-readme-stats-cwn.vercel.app/api?username=craftwithneha&show_icons=true&theme=tokyonight" alt="Neha's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=craftwithneha&theme=tokyonight&hide_border=true" height="160" />
 </p>  
 
