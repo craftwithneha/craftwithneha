@@ -49,8 +49,7 @@ I focus on **Next.js, ShadCN UI, React, and TypeScript**, turning ideas into imp
 # 📫 Connect With Me  
 
 - 🌐 [Portfolio](https://neha-portfolio-coral.vercel.app/)  
-- 💼 [LinkedIn](www.linkedin.com/in/
-neha-fiaz)  
+- 💼 [LinkedIn](www.linkedin.com/in/neha-fiaz)  
 - 📧 [Email](mailto:nehafiaz12@gmail.com)  
 
 ---
