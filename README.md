@@ -23,59 +23,76 @@
 </p>
 
 ---
+--- 
 
-# 🌟 Featured Projects  
+# 🌟 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-  
-### [Brainwave](https://github.com/craftwithneha/brainwave)  
-AI-powered modern landing page.  
-<p>
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-teal?style=flat&logo=tailwind-css&logoColor=white"/>
-</p>
+<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap:16px; align-items:start;">
 
-</td>
-<td width="50%">
-  
-### [Apple Website](https://github.com/craftwithneha/apple-website)  
-Apple-inspired 3D website clone with GSAP & Three.js.  
-<p>
-  <img src="https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GSAP-green?style=flat&logo=greensock&logoColor=white"/>
-</p>
+<!-- Card 1 -->
+<div style="border:1px solid rgba(139,92,246,0.12); border-radius:12px; padding:16px; box-shadow:0 6px 18px rgba(139,92,246,0.06); background: #fff;">
+  <h3 style="margin:0 0 8px 0; font-size:18px;">
+    <a href="https://github.com/craftwithneha/brainwave" target="_blank" rel="noopener" style="text-decoration:none; color:#111;">Brainwave</a>
+  </h3>
+  <p style="margin:0 0 12px 0; color:#555;">AI-powered modern landing page.</p>
+  <p style="margin:0 0 12px 0;">
+    <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" />
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  </p>
+  <p style="margin:0;">
+    <a href="https://github.com/craftwithneha/brainwave" target="_blank" rel="noopener" style="font-weight:600; color:#8B5CF6; text-decoration:none;">View on GitHub →</a>
+  </p>
+</div>
 
-</td>
-</tr>
+<!-- Card 2 -->
+<div style="border:1px solid rgba(139,92,246,0.12); border-radius:12px; padding:16px; box-shadow:0 6px 18px rgba(139,92,246,0.06); background: #fff;">
+  <h3 style="margin:0 0 8px 0; font-size:18px;">
+    <a href="https://github.com/craftwithneha/apple-website" target="_blank" rel="noopener" style="text-decoration:none; color:#111;">Apple Website</a>
+  </h3>
+  <p style="margin:0 0 12px 0; color:#555;">Apple-inspired 3D website clone with GSAP & Three.js.</p>
+  <p style="margin:0 0 12px 0;">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" />
+    <img src="https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js&logoColor=white" alt="Three.js" />
+    <img src="https://img.shields.io/badge/GSAP-29A3A3?style=flat&logo=greensock&logoColor=white" alt="GSAP" />
+  </p>
+  <p style="margin:0;">
+    <a href="https://github.com/craftwithneha/apple-website" target="_blank" rel="noopener" style="font-weight:600; color:#8B5CF6; text-decoration:none;">View on GitHub →</a>
+  </p>
+</div>
 
-<tr>
-<td width="50%">
-  
-### [Pure Brush](https://github.com/craftwithneha/pure-brush)  
-Creative art & painting portfolio site.  
-<p>
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-teal?style=flat&logo=tailwind-css&logoColor=white"/>
-</p>
+<!-- Card 3 -->
+<div style="border:1px solid rgba(139,92,246,0.12); border-radius:12px; padding:16px; box-shadow:0 6px 18px rgba(139,92,246,0.06); background: #fff;">
+  <h3 style="margin:0 0 8px 0; font-size:18px;">
+    <a href="https://github.com/craftwithneha/pure-brush" target="_blank" rel="noopener" style="text-decoration:none; color:#111;">Pure Brush</a>
+  </h3>
+  <p style="margin:0 0 12px 0; color:#555;">Creative art & painting portfolio site.</p>
+  <p style="margin:0 0 12px 0;">
+    <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  </p>
+  <p style="margin:0;">
+    <a href="https://github.com/craftwithneha/pure-brush" target="_blank" rel="noopener" style="font-weight:600; color:#8B5CF6; text-decoration:none;">View on GitHub →</a>
+  </p>
+</div>
 
-</td>
-<td width="50%">
-  
-### [Nexacode](https://github.com/craftwithneha/nexacode)  
-Full-stack code collaboration platform.  
-<p>
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
-</p>
+<!-- Card 4 -->
+<div style="border:1px solid rgba(139,92,246,0.12); border-radius:12px; padding:16px; box-shadow:0 6px 18px rgba(139,92,246,0.06); background: #fff;">
+  <h3 style="margin:0 0 8px 0; font-size:18px;">
+    <a href="https://github.com/craftwithneha/nexacode" target="_blank" rel="noopener" style="text-decoration:none; color:#111;">Nexacode</a>
+  </h3>
+  <p style="margin:0 0 12px 0; color:#555;">Full-stack code collaboration platform.</p>
+  <p style="margin:0 0 12px 0;">
+    <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </p>
+  <p style="margin:0;">
+    <a href="https://github.com/craftwithneha/nexacode" target="_blank" rel="noopener" style="font-weight:600; color:#8B5CF6; text-decoration:none;">View on GitHub →</a>
+  </p>
+</div>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
