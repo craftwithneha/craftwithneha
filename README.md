@@ -36,7 +36,7 @@ I focus on **Next.js, ShadCN UI, React, and TypeScript**, turning ideas into imp
 # 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=craftwithneha&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=craftwithnehas&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=craftwithneha&theme=tokyonight&hide_border=true" height="160" />
 </p>  
 
@@ -49,7 +49,8 @@ I focus on **Next.js, ShadCN UI, React, and TypeScript**, turning ideas into imp
 # 📫 Connect With Me  
 
 - 🌐 [Portfolio](https://neha-portfolio-coral.vercel.app/)  
-- 💼 [LinkedIn](https://linkedin.com/in/neha-fiaz)  
+- 💼 [LinkedIn](www.linkedin.com/in/
+neha-fiaz)  
 - 📧 [Email](mailto:nehafiaz12@gmail.com)  
 
 ---
